@@ -35,7 +35,7 @@ Key Milestones in the Evolution of Software Engineering
 
 1. Birth of Software Engineering (1968)
 The term software engineering was first introduced at the NATO Software Engineering Conference to address the "software crisis"—where software was becoming increasingly complex, unreliable, and difficult to maintain. This led to the adoption of structured methodologies to improve development processes.
-2. The Rise of Object-Oriented Programming (1980s-1990s)
+2. The Riee of Object-Oriented Programming (1980s-1990s)
 Object-Oriented Programming (OOP) revolutionized software development by organizing code into reusable objects, improving efficiency and maintainability. Languages like C++, Java, and Python emerged, enabling modular and scalable software solutions.
 3. Agile & DevOps Revolution (2000s-Present)
 Traditional Waterfall development was slow and rigid. The introduction of Agile methodologies (like Scrum & Kanban) emphasized flexibility, iterative development, and collaboration. Later, DevOps integrated development and operations, promoting continuous integration and delivery (CI/CD) for faster, more reliable software deployment.
