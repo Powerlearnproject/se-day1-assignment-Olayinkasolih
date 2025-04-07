@@ -120,7 +120,6 @@ Managing resources, budgets, and risks.
 Facilitating communication between developers, designers, stakeholders, and clients.
 Ensuring Agile or Waterfall methodologies are followed.
 Tracking progress, resolving roadblocks, and ensuring successful project completion.
-
 Together, these roles ensure the smooth development, testing, and delivery of high-quality software.
 
 
